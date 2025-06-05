@@ -36,6 +36,14 @@
                             <label for="loginPassword" class="form-label">Password: </label>
                             <input type="password" class="form-control" id="loginPassword" required />
                         </div>
+                        <div class="mb-3">
+                            <label for="signupRole" class="form-label">Role</label>
+                            <select class="form-select" id="signupRole" required>
+                                <option value="">Select Role</option>
+                                <option value="Admin">Admin</option>
+                                <option value="User">User</option>
+                            </select>
+                        </div>
                         <button type="submit" class="btn btn-success w-100">Login</button>
                         <p class="text-center mt-3">Don't have an account? <a href="signup.html">Sign Up</a></p>
                     </form>
@@ -43,5 +51,7 @@
             </div>
         </div>
     </div>
+
+    <script src="js/auth.js"></script>
 </body>
 </html>

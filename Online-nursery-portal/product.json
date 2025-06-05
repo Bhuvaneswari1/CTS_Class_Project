@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "name":"Daisy",
+        "price":20,
+        "image": "images/daisy.jpeg",
+        "description":"An internation emblem of innocence and purity"
+    },
+    {
+        "id":2,
+        "name":"Hibuscus",
+        "price":15,
+        "image": "images/hibiscus.jpeg",
+        "description":"A flower that grow in Warm Climate"
+    },
+    {
+        "id":3,
+        "name":"Iris",
+        "price":25,
+        "image": "images/iris.jpeg",
+        "description":"A part of an Eye"
+    },
+     {
+        "id":4,
+        "name":"Jasmine",
+        "price":10,
+        "image": "images/jasmine.jpg",
+        "description":"The best spelling flower"
+    },
+     {
+        "id":5,
+        "name":"Lavender",
+        "price":25,
+        "image": "images/lavender.jpg",
+        "description":"Lavender is a fragnant herb that many people use in the form of oil"
+    },
+     {
+        "id":6,
+        "name":"Lilly",
+        "price":12,
+        "image": "images/lilly.jpg",
+        "description":"Symbolizes purity, beauty and innocence"
+    },
+     {
+        "id":7,
+        "name":"Rose",
+        "price":16,
+        "image": "images/rose.jpg",
+        "description":"Rose are one of the most loved flowers in the world"
+    },
+     {
+        "id":8,
+        "name":"Sunflower",
+        "price":25,
+        "image": "images/sunflower.jpg",
+        "description":"Sunflower symbolizes loyalty and adoration"
+    },
+     {
+        "id":9,
+        "name":"Tulip",
+        "price":17,
+        "image": "images/tulip.jpg",
+        "description":"Tulip are spring-blooming herbacecous bulbiferous."
+    }
+]
